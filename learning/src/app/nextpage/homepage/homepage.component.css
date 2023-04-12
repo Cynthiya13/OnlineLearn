@@ -1,0 +1,30 @@
+
+.content
+{
+    top: 15%;
+    right: 5%;
+    position: absolute;
+}
+
+.content a 
+{
+    text-decoration: none;
+    background-color: rgb(243, 238, 238);
+    color: var(--primary-color);
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.content a:hover 
+{
+    background-color: var(--primary-color);
+    color: rgb(16, 16, 16);
+}
+
+.figure
+{
+    padding: 20px;
+}
+
+
+
